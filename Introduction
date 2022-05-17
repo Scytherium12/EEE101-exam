@@ -1,0 +1,3 @@
+import tinker
+
+print("Hello World")
